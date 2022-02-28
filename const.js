@@ -1,9 +1,9 @@
 const NET_FOLDERS = {
-  main: 'main',
+  main: 'Dexi',
   test: 'test'
 }
 const NODES = {
-  main: 'https://sync-mainnet.vechain.org',
+  main: 'http://93.119.2.61',
   test: 'https://sync-testnet.vechain.org'
 }
 
